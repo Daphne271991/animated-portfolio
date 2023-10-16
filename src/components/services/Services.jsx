@@ -63,10 +63,9 @@ const Services = () => {
         >
           <h2>Branding</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Daphne is a designer tomorrow yes all projects forsure yes. ayer
+            claro como lo sabe for sure yes antier if you say so yes! adds
+            graphic design logos front dev coding projects advanced?
           </p>
           <button>Go</button>
         </motion.div>
@@ -76,10 +75,9 @@ const Services = () => {
         >
           <h2>Branding</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Daphne is a designer tomorrow yes all projects forsure yes. ayer
+            claro como lo sabe for sure yes antier if you say so yes! adds
+            graphic design logos front dev coding projects advanced?
           </p>
           <button>Go</button>
         </motion.div>
@@ -89,10 +87,9 @@ const Services = () => {
         >
           <h2>Branding</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Daphne is a designer tomorrow yes all projects forsure yes. ayer
+            claro como lo sabe for sure yes antier if you say so yes! adds
+            graphic design logos front dev coding projects advanced?
           </p>
           <button>Go</button>
         </motion.div>
@@ -102,10 +99,9 @@ const Services = () => {
         >
           <h2>Branding</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+            Daphne is a designer tomorrow yes all projects forsure yes. ayer
+            claro como lo sabe for sure yes antier if you say so yes! adds
+            graphic design logos front dev coding projects advanced?
           </p>
           <button>Go</button>
         </motion.div>
